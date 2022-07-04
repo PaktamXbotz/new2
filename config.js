@@ -1,4 +1,4 @@
-let fs = require('fs')                    //CREATOR = YahyaGanzz , DEVBOT
+let fs = require('fs')                    //CREATOR = Paktamz , DEVBOT
 let chalk = require('chalk')
 global.owner = [
   ['601169655956'],
@@ -8,7 +8,7 @@ global.owner = [
 ] 
 global.ownername = [['Khairul']]
 global.namabot = [['Paktam-Botz']]
-global.ownerinsta = [['@miakhalifa']]
+global.ownerinsta = [['@mia_khalifa']]
 global.mods = [] 
 global.prems = [] 
 
